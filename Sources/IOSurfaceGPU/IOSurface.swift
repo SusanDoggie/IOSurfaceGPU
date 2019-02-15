@@ -24,8 +24,7 @@
 //
 
 import Metal
-import IOSurface
-import CoreGraphics
+@_exported import IOSurface
 
 #if canImport(CoreImage)
 
